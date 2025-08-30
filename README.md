@@ -1,2 +1,2 @@
 # cicd-demo
-Hi !CICD Demo 
+CICD Demo 
